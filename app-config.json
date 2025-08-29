@@ -1,0 +1,35 @@
+{
+  "app": {
+    "name": "Teleprompter Pro",
+    "version": "1.0.0",
+    "description": "Teleprompter invisible for screen sharing"
+  },
+  "window": {
+    "defaultWidth": 800,
+    "defaultHeight": 600,
+    "minWidth": 400,
+    "minHeight": 300,
+    "defaultAlwaysOnTop": true,
+    "defaultOpacity": 1.0
+  },
+  "teleprompter": {
+    "defaultFontSize": 6,
+    "defaultSpeed": 1,
+    "defaultAlignment": "center",
+    "autoSave": true
+  },
+  "shortcuts": {
+    "playPause": "CommandOrControl+Space",
+    "toggleVisible": "CommandOrControl+Shift+P",
+    "toggleInvisible": "CommandOrControl+Shift+I",
+    "toggleTransparency": "CommandOrControl+Shift+T",
+    "toggleAlwaysOnTop": "CommandOrControl+T",
+    "fullscreen": "F11"
+  },
+  "features": {
+    "screenShareInvisibility": true,
+    "dragAndDrop": true,
+    "globalShortcuts": true,
+    "autoScroll": true
+  }
+}
