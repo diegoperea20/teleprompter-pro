@@ -74,9 +74,6 @@ Transparency
 
 1. **Clone or download the project**
 
-```bash
-cd teleprompter-main
-```
 
 2. **Install dependencies**
 

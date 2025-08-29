@@ -82,9 +82,6 @@ Transparency
 
 1. **Clonar o descargar el proyecto**
 
-```bash
-cd teleprompter-main
-```
 
 2. **Instalar dependencias**
 
